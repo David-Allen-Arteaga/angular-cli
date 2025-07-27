@@ -102,7 +102,7 @@
     "buffer": "6.0.3",
     "esbuild": "0.25.1",
     "esbuild-wasm": "0.25.1",
-    "eslint": "9.23.0",
+    "eslint": "9.27.0",
     "eslint-config-prettier": "10.1.1",
     "eslint-plugin-header": "3.1.1",
     "eslint-plugin-import": "2.31.0",
@@ -142,7 +142,7 @@
     "typescript": "5.8.2",
     "undici": "7.5.0",
     "unenv": "^1.10.0",
-    "verdaccio": "6.1.0",
+    "verdaccio": "6.1.6",
     "verdaccio-auth-memory": "^10.0.0",
     "yargs-parser": "21.1.1",
     "zone.js": "^0.15.0"
